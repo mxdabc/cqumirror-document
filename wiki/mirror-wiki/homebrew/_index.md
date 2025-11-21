@@ -15,7 +15,7 @@ Homebrew 的镜像分为两部分，一个是 formula 索引源，另一个已�
 
 
 {{% notice note %}}
-配置了本源只会提高 `brew update` 的速度，如想提高 `brew upgrade` 和 `brew install` 的速度，请另配置 bottle 源。
+配置了本源只会提高 `brew update` 的速度，如想提高 `brew upgrade` 和 `brew install` 的速度，请参考[Homebrew-bottles 镜像使用帮助](/wiki/mirror-wiki/homebrew-bottles/_index)配置 bottle 源。
 {{% /notice %}}
 
 
