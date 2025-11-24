@@ -43,5 +43,5 @@ export HOMEBREW_API_DOMAIN="https://mirrors.cqu.edu.cn/homebrew-bottles/api/"
 export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.cqu.edu.cn/homebrew-bottles"
 ```
 
-⚠️ 注意 (Linuxbrew 用户)Linuxbrew 核心仓库（Linuxbrew/brew，版本 $&#x2265 3.3.0$) 于 2021 年 10 月 25 日被弃用，Linuxbrew 用户应迁移至 homebrew-core。Linuxbrew 用户请依据新的说明进行镜像配置。
+⚠️ 注意 (Linuxbrew 用户)Linuxbrew 核心仓库（Linuxbrew/brew，版本 >= 3.3.0) 于 2021 年 10 月 25 日被弃用，Linuxbrew 用户应迁移至 homebrew-core。Linuxbrew 用户请依据新的说明进行镜像配置。
 
