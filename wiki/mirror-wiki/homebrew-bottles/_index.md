@@ -10,9 +10,12 @@ filepath: '/wiki/mirror-wiki/homebrew-bottles/_index'
 https://mirrors.cqu.edu.cn/homebrew-bottles
 
 ## 说明
-这是 Homebrew 二进制预编译包的镜像。镜像站同时提供 Homebrew 的 formula 索引的镜像（即 brew update 时所更新内容）。请参考 Homebrew 镜像站使用帮助。
-⚙️ 镜像替换方法
-### 临时替换
+这是 Homebrew 二进制预编译包的镜像。镜像站同时提供 Homebrew 的 formula 索引的镜像（即 brew update 时所更新内容）。请参考 [Homebrew 镜像站使用帮助](wiki/mirror-wiki/homebrew/_index.md)。
+
+## 镜像替换方法
+
+### 临时替换  
+
 在当前的终端会话中设置环境变量，仅对本次会话有效。
 
 ```sh
@@ -40,5 +43,5 @@ export HOMEBREW_API_DOMAIN="https://mirrors.cqu.edu.cn/homebrew-bottles/api/"
 export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.cqu.edu.cn/homebrew-bottles"
 ```
 
-⚠️ 注意 (Linuxbrew 用户)Linuxbrew 核心仓库（Linuxbrew/brew，版本 $\ge 3.3.0$) 于 2021 年 10 月 25 日被弃用，Linuxbrew 用户应迁移至 homebrew-core。Linuxbrew 用户请依据新的说明进行镜像配置。
+⚠️ 注意 (Linuxbrew 用户)Linuxbrew 核心仓库（Linuxbrew/brew，版本 $&#x2265 3.3.0$) 于 2021 年 10 月 25 日被弃用，Linuxbrew 用户应迁移至 homebrew-core。Linuxbrew 用户请依据新的说明进行镜像配置。
 
