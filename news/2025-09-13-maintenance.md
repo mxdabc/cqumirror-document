@@ -2,7 +2,7 @@
 category: news
 layout: news
 title: "镜像站维护公告"
-author: AhsokaTano26
+author: Tano
 date: "2025-09-13"
 ---
 

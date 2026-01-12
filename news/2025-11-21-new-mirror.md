@@ -2,7 +2,7 @@
 category: news
 layout: news
 title: "新镜像公告"
-author: AhsokaTano26
+author: Tano
 date: "2025-11-21"
 ---
 
