@@ -29,4 +29,4 @@ Blender是一款自由和开源的三维计算机图形软件，它可以用于�
 
 项目许可证[GPL-3.0 license](http://mirrors.cqu.edu.cn/static/open-source-licenses/gpl-3.0-standalone.html)
 
-帮助文档[https://docs.blender.org/manual][https://docs.blender.org/manual/]
+帮助文档[https://docs.blender.org/manual](https://docs.blender.org/manual/)
