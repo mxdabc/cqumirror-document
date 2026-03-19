@@ -8,7 +8,7 @@ filepath: '/wiki/mirror-wiki/ubuntu-releases/_index'
 http://mirrors.cqu.edu.cn/ubuntu-releases/
 ## 说明
 Ubuntu 发行镜像
-## 收录构架
+## 收录架构
 - x86
 - x86_64
 

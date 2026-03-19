@@ -18,7 +18,7 @@ Office Tool Plus 基于 Office 部署工具制作，可以很方便的部署 Off
 - x86_64
 
 ## 收录版本
-最新3个版本，其中[LatestRelease](/github-release/YerongAI/Office-Tool/LatestRelease)永远指向最新版本。
+最新3个版本，其中[LatestRelease](http://mirrors.cqu.edu.cn/github-release/YerongAI/Office-Tool/LatestRelease)永远指向最新版本。
 
 ## 使用说明
 {{% notice note %}}

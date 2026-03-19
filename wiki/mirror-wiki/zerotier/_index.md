@@ -1,0 +1,21 @@
+---
+title: "ZeroTier 镜像使用帮助"
+draft: false
+weight: 2
+filepath: '/wiki/mirror-wiki/zerotier/_index'
+---
+## 地址
+https://mirrors.cqu.edu.cn/zerotier/
+
+## 收录版本
+最新一个版本
+
+## 使用说明
+{{% notice note %}}
+仅同步msi和pkg包
+{{% /notice %}}
+
+## 相关链接
+官方主页[https://www.zerotier.com](https://www.zerotier.com)
+
+项目许可证[MPL-2.0 license](http://mirrors.cqu.edu.cn/static/open-source-licenses/MPL-2.0.html)
