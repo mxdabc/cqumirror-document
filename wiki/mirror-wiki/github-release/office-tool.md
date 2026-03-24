@@ -15,7 +15,7 @@ Office Tool Plus 基于 Office 部署工具制作，可以很方便的部署 Off
 ## 收录架构
 与上游保持一致
 - arm64
-- x86_64
+- x64
 
 ## 收录版本
 最新3个版本，其中[LatestRelease](http://mirrors.cqu.edu.cn/github-release/YerongAI/Office-Tool/LatestRelease)永远指向最新版本。
@@ -25,9 +25,9 @@ Office Tool Plus 基于 Office 部署工具制作，可以很方便的部署 Off
 使用闭源软件时，请谨慎辨别，仅运行可信赖的程序。
 {{% /notice %}}
 
-### 下载
 镜像站已列入软件官方下载源，请访问[官网](https://otp.landian.vip)或[帮助文档](https://www.officetool.plus/zh-cn/introduction/download.html)选择"重庆大学镜像站"下载。
 
+也可访问[主页](/)右侧“获取下载链接”-“常用软件”-“Office Tool Plus”并选择合适版本下载。
 ### 更新
 软件启动时自动检查新版本，更新时就近选择下载源，无需手动配置。
 

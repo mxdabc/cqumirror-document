@@ -15,6 +15,7 @@ https://mirrors.cqu.edu.cn/zerotier/
 仅同步msi和pkg包
 {{% /notice %}}
 
+请访问[主页](/)右侧“获取下载链接”-“常用软件”-“ZeroTier”并选择合适版本下载。
 ## 相关链接
 官方主页[https://www.zerotier.com](https://www.zerotier.com)
 

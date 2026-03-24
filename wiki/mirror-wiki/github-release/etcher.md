@@ -20,6 +20,7 @@ balenaEtcher 通常简称为Etcher，是一款免费开源的Live USB系统工�
 仅同步exe和dmg安装包。
 {{% /notice %}}
 
+请访问[主页](/)右侧“获取下载链接”-“常用软件”-“balenaEtcher”并选择合适版本下载。
 ## 相关链接
 官方主页[https://etcher.balena.io](https://etcher.balena.io)
 

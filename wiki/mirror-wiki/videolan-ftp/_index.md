@@ -25,10 +25,7 @@ VLC 是一款自由、开源的跨平台多媒体播放器及框架，可播放�
 {{% notice note %}}
 仅同步桌面平台和移动端Android安装包
 {{% /notice %}}
-
-桌面端根据访问[vlc](https://mirrors.cqu.edu.cn/videolan-ftp/vlc/last/)下载。
-移动端Android访问[vlc-android](https://mirrors.cqu.edu.cn/videolan-ftp/vlc-android/last/)下载
-
+请访问[主页](/)右侧“获取下载链接”-“常用软件”-“VLC”并选择合适版本下载。
 ## 相关链接
 官方主页[https://www.videolan.org/vlc/](https://www.videolan.org/vlc/index.zh_CN.html)
 
