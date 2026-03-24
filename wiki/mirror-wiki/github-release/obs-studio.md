@@ -21,6 +21,7 @@ Open Broadcaster Software（OBS）是由OBS Project开发的自由开源跨平�
 仅同步exe、deb和dmg安装包，若需其他版本，请访问官网下载。
 {{% /notice %}}
 
+请访问[主页](/)右侧“获取下载链接”-“常用软件”-“OBS”并选择合适版本下载。
 ## 相关链接
 官方主页[https://obsproject.com](https://obsproject.com)
 
