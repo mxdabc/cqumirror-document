@@ -24,4 +24,4 @@ balenaEtcher 通常简称为Etcher，是一款免费开源的Live USB系统工�
 ## 相关链接
 官方主页[https://etcher.balena.io](https://etcher.balena.io)
 
-项目许可证[Apache-2.0](http://mirrors.cqu.edu.cn/static/open-source-licenses/Apache-2.0.txt)
+项目许可证[Apache-2.0](http://mirrors.cqu.edu.cn/static/open-source-licenses/Apache-2.0/etcher.txt)
