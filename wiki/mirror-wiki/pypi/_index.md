@@ -51,6 +51,12 @@ pip install -i https://mirrors.cqu.edu.cn/pypi/web/simple pip -U
 sudo pip install -i https://mirrors.cqu.edu.cn/pypi/web/simple pip
 ```
 
+### Homebrew
+本节主要供 Homebrew 帮助使用。
+```shell
+export HOMEBREW_PIP_INDEX_URL="https://mirrors.cqu.edu.cn/pypi/web/simple"
+```
+
 ## 相关链接
 
 {{% notice link %}}

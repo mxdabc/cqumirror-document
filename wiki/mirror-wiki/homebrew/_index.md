@@ -20,7 +20,36 @@ Homebrew 的镜像分为两部分，一个是 formula 索引源，另一个已�
 
 
 ## 使用说明
+### 首次安装
+首先，需要确保系统中安装了 bash、git 和 curl，对于 macOS 用户需额外要求安装 Command Line Tools (CLT) for Xcode。
+- 对于 macOS 用户，系统自带 bash、git 和 curl，在命令行输入 xcode-select --install 安装 CLT for Xcode 即可。
+- 对于 Linux 用户，系统自带 bash，仅需额外安装 git 和 curl。
 
+接着，在终端输入以下几行命令设置环境变量：
+```sh
+export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.cqu.edu.cn/homebrew/brew.git"
+export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.cqu.edu.cn/homebrew/homebrew-core.git"
+export HOMEBREW_INSTALL_FROM_API=1
+# export HOMEBREW_API_DOMAIN
+# export HOMEBREW_BOTTLE_DOMAIN
+# export HOMEBREW_PIP_INDEX_URL
+```
+{{% notice note %}}
+建议同时参照[Homebrew-bottles 镜像使用帮助](/wiki/mirror-wiki/homebrew-bottles/)设置`HOMEBREW_API_DOMAIN`和`HOMEBREW_BOTTLE_DOMAIN`，参照[PyPI 镜像使用帮助](/wiki/mirror-wiki/pypi/)设置`HOMEBREW_PIP_INDEX_URL`
+{{% /notice %}}
+最后，在终端运行以下命令以安装:
+```shell
+# 从镜像下载安装脚本并安装 Homebrew / Linuxbrew
+git clone --depth=1 https://mirrors.cqu.edu.cn/homebrew/install.git brew-install
+/bin/bash brew-install/install.sh
+rm -rf brew-install
+
+# 也可从 GitHub 获取官方安装脚本安装 Homebrew / Linuxbrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+
+### 替换现有仓库上游
  将以下内容添加到 shell 的配置文件中，如 `.zshrc` 或 `.bash_profile` 中，
 
  ```sh

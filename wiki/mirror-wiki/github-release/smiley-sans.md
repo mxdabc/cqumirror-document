@@ -17,12 +17,13 @@ https://mirrors.cqu.edu.cn/github-release/atelier-anchor/smiley-sans/
 最新3个版本
 
 ## 使用说明
-.otf 和 .ttf 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可；
+{{% notice note %}}
+.otf 和 .ttf 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可；.woff2 为网页字体格式，供网站开发人员使用。
+{{% /notice %}}
 
-.woff2 为网页字体格式，供网站开发人员使用。
-
+请访问[主页](/)右侧“获取下载链接”-“常用字体”-“Smiley Sans”并选择合适版本下载。
 ## 相关链接
 官方主页[https://github.com/atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
 
-项目许可证[SIL Open Font License 1.1](https://mirrors.cqu.edu.cn/static/open-source-licenses/OFL.txt)
+项目许可证[SIL Open Font License 1.1](https://mirrors.cqu.edu.cn/static/open-source-licenses/OFL/smiley-sans.txt)
 
