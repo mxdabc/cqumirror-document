@@ -17,3 +17,4 @@ https://mirrors.cqu.edu.cn/github-release
 - [Smiley Sans 镜像使用帮助](/wiki/mirror-wiki/github-release/smiley-sans)
 - [balena Etcher 镜像使用帮助](/wiki/mirror-wiki/github-release/etcher)
 - [LXGW WenKai 镜像使用帮助](/wiki/mirror-wiki/github-release/LxgwWenKai)
+- [WSL 镜像使用帮助](/wiki/mirror-wiki/github-release/wsl)
