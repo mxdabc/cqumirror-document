@@ -82,7 +82,7 @@ deb http://mirrors.cqu.edu.cn/debian stable-updates main contrib non-free non-fr
 # deb-src http://mirrors.cqu.edu.cn/debian stable-proposed-updates main contrib non-free non-free-firmware
 ```
 
-### Debian Unstable (sid)
+### Debian Sid (Unstable)
 
 Debian Sid 需要且仅仅需要按照如下样例设置自己的`sources.list`：
 
