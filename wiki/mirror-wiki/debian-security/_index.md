@@ -15,9 +15,7 @@ Debian 安全更新仓库
 
 ## 收录架构
 
-Debian 支持的所有架构，如 amd64, arm64, armel, armhf, i386, ppc64el, riscv64, s390x 等，以及 source code。
-
-且随 Debian 支持的架构变化而变化。
+Debian 支持的部分架构，如 amd64, arm64, armhf, i386, riscv64, 以及 source code。
 
 ## 收录版本
 
